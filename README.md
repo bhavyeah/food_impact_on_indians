@@ -1,5 +1,6 @@
 the following observations were made after cleaning, analyzing and visualizing this dataset:
-- Diabetes was the most commonly found disease after most of the people having no disease found within them
+- Diabetes was the most commonly found disease
+- most of the people in this dataset had no major diseases
 - most of the population had a sedentary lifestyle
 - the health score of the population was not dependent upon their diet type (vegetarian, non-vegetarian, vegan). people of either diet type had similar health scores (between 50-52)
 - the average health score was also found to be similar for each cuisine type (north Indian, south Indian etc) in the dataset (between 48 and 52)
