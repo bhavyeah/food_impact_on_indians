@@ -1,5 +1,4 @@
 📌 Key Observations
-After cleaning, analyzing, and visualizing the dataset, the following insights were observed:
 - Diabetes was the most commonly reported disease among individuals.
 - Most people had no major health conditions, indicating a relatively healthy sample population.
 - A large portion of the population reported leading a sedentary lifestyle.
@@ -12,7 +11,7 @@ After cleaning, analyzing, and visualizing the dataset, the following insights w
 Dataset Status:
 - All duplicates have been removed
 - Missing values have been handled appropriately
-- Visualizations were created using Tableau, and the dashboards are included at the end of the notebook
+- Visualizations were created using Tableau
 
 📁 Dataset Source
 This dataset on food habits and their health impacts on Indians was sourced from Kaggle
