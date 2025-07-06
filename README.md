@@ -1,19 +1,18 @@
-the following observations were made after cleaning, analyzing and visualizing this dataset:
-- Diabetes was the most commonly found disease
-- most of the people in this dataset had no major diseases
-- most of the population had a sedentary lifestyle
-- the health score of the population was not dependent upon their diet type (vegetarian, non-vegetarian, vegan). people of either diet type had similar health scores (between 50-52)
-- the average health score was also found to be similar for each cuisine type (north Indian, south Indian etc) in the dataset (between 48 and 52)
+📌 Key Observations
+- After cleaning, analyzing, and visualizing the dataset, the following insights were observed:
+- Diabetes was the most commonly reported disease among individuals.
+- Most people had no major health conditions, indicating a relatively healthy sample population.
+- A large portion of the population reported leading a sedentary lifestyle.
+- The Health Score showed no significant dependency on diet type (vegetarian, non-vegetarian, or vegan). Individuals across diet types had similar scores, ranging between 50–52.
+- Similarly, primary cuisine type (North Indian, South Indian, etc.) had little to no influence on health scores, which hovered between 48–52 across all cuisine groups.
 
-facts:
-- the health score range is from 1-100
-- the maximum age found was 69
-- the minimum age found was 18
+📊 Dataset Facts
+-- Health Score Range: 1–100
+-- Age Range: 18–69 years
+Dataset Status:
+-- All duplicates have been removed
+-- Missing values have been handled appropriately
+-- Visualizations were created using Tableau, and the dashboards are included at the end of the notebook
 
-the data has been 
-- cleaned, i.e., duplicates have been dropped.
-- null values have been filled with the appropriate values.
-- Tableau has been used for visualizing the data points and the graphs have been added at the end of the code.
-
-This dataset describing the food habits and their impacts on Indians has been procured from Kaggle 
-(link: https://www.kaggle.com/datasets/harry5760/food-impact-on-indians/code?datasetId=6463146)
+📁 Dataset Source
+This dataset on food habits and their health impacts on Indians was sourced from Kaggle(link: https://www.kaggle.com/datasets/harry5760/food-impact-on-indians/code?datasetId=6463146)
