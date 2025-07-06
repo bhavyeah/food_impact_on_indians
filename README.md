@@ -7,12 +7,13 @@
 - Similarly, primary cuisine type (North Indian, South Indian, etc.) had little to no influence on health scores, which hovered between 48–52 across all cuisine groups.
 
 📊 Dataset Facts
--- Health Score Range: 1–100
--- Age Range: 18–69 years
+- Health Score Range: 1–100
+- Age Range: 18–69 years
 Dataset Status:
--- All duplicates have been removed
--- Missing values have been handled appropriately
--- Visualizations were created using Tableau, and the dashboards are included at the end of the notebook
+- All duplicates have been removed
+- Missing values have been handled appropriately
+- Visualizations were created using Tableau, and the dashboards are included at the end of the notebook
 
 📁 Dataset Source
-This dataset on food habits and their health impacts on Indians was sourced from Kaggle(link: https://www.kaggle.com/datasets/harry5760/food-impact-on-indians/code?datasetId=6463146)
+This dataset on food habits and their health impacts on Indians was sourced from Kaggle
+(link: https://www.kaggle.com/datasets/harry5760/food-impact-on-indians/code?datasetId=6463146)
