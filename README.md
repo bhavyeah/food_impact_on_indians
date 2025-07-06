@@ -13,6 +13,6 @@ Dataset Status:
 - Missing values have been handled appropriately
 - Visualizations were created using Tableau
 
-📁 Dataset Source
-This dataset on food habits and their health impacts on Indians was sourced from Kaggle
+📁 Dataset Source:
+
 (link: https://www.kaggle.com/datasets/harry5760/food-impact-on-indians/code?datasetId=6463146)
